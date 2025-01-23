@@ -1,6 +1,6 @@
 # Challenge Amigo Secreto
 
-Este é um simples programa para sortear Amigos Secretos desenvolvido em HTML, CSS e JavaScript. Chanllenge do Oracle Next One.
+Este é um simples programa para sortear Amigos Secretos desenvolvido em HTML, CSS e JavaScript. Challenge do Oracle Next One.
 
 ## Funcionalidades
 
